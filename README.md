@@ -14,3 +14,7 @@ http://maven.apache.org/install.html
 $ mvn package
 3. Run service:
 $ java -jar target/redsky_device_tracking_service-1.0-SNAPSHOT.jar 
+
+
+Tested with Postman <br>
+https://www.getpostman.com
