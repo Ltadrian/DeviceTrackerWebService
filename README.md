@@ -1,6 +1,6 @@
 # DeviceTrackerWebService
 
-JDK 1.8 Required
+JDK 1.8 Required<br>
 JRE 8 Required
 
 To run service enter following command:<br>
