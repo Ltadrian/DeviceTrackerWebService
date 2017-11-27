@@ -19,7 +19,7 @@ $ java -jar target/redsky_device_tracking_service-1.0-SNAPSHOT.jar
 Tested with Postman <br>
 https://www.getpostman.com
 
-<b>Example Requests</b>
+<b>Example Requests</b> <br>
 http://localhost:8080/registerPhone?phoneNumber=7736770795&name=Adrian&phoneType=iphone <br>
 http://localhost:8080/updateLocationCivic?phoneNumber=7736770795&city=chicago&state=Illinois <br>
 http://localhost:8080/updateLocationGeo?phoneNumber=7736770795&lat=41.953600&lng=-87.7176 <br>
