@@ -1,8 +1,9 @@
 # DeviceTrackerWebService
 
-JDK Required: 1.8
+JDK 1.8 Required
+JRE 8 Required
 
-To run service enter following command:
+To run service enter following command:<br>
 $ java -jar target/redsky_device_tracking_service-1.0-SNAPSHOT.jar 
 
 
